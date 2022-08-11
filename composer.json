@@ -1,5 +1,5 @@
 {
-	"name": "vanderlee/swaggergen",
+	"name": "danijelsingulatiry98/swaggergen",
 	"description": "Generate Swagger/OpenAPI documentation from simple PHPdoc-like comments in PHP source code.",
 	"type": "library",
 	"keywords": ["swagger", "openapi", "doc", "documentation", "rest", "api", "documentor", "comments", "generate", "generator"],
